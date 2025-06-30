@@ -33,6 +33,6 @@ This project simulates an inventory and sales tracking system. It features a cle
 
 📂 Folder Structure
 inventory-dashboard/
-├── inventory_dashboard.xlsx # Main Excel file with all sheets
-├── README.md # Project documentation
+├── inventory_dashboard.xlsx 
+├── README.md 
 
